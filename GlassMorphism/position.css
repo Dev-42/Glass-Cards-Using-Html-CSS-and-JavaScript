@@ -1,0 +1,17 @@
+.box{
+	display: inline-block;
+	border: 2px solid red;
+	width: 150px;
+	height: 150px;
+	margin: 2px;
+}
+#box3{
+	position: fixed;
+	right: 4px;
+	bottom: 2px;
+}
+.container{
+	border: 2px solid red;
+	background: khaki;
+	height: 3444px;
+}
